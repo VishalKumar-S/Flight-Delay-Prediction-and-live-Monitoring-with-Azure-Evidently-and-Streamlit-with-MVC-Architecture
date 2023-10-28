@@ -9,7 +9,7 @@ class FlightDelayModel:
     This class handles data loading, model loading, and delay predictions.
     """
 
-    def __init__(self, data_file="data/DelayedFlights.csv", model_file="models/best_model.pkl"):
+    def __init__(self, model_file="models/best_model.pkl"):
         """
         Initializes the FlightDelayModel.
 
@@ -17,7 +17,7 @@ class FlightDelayModel:
             data_file (str): Path to the CSV file containing flight data.
             model_file (str): Path to the pre-trained machine learning model.
         """
-        self.raw_data = pd.read_csv(data_file)
+        
         self.numerical_columns = [
         'Month', 'DayofMonth', 'DayOfWeek', 'DepTime', 'CRSDepTime', 'CRSArrTime',
         'FlightNum', 'CRSElapsedTime', 'AirTime', 'DepDelay',
