@@ -1,0 +1,14 @@
+
+venv/
+
+
+__pycache__/
+
+
+*.log
+*.swp
+
+
+data/cleaned_flight_delays.csv
+data/DelayedFlights.csv
+
