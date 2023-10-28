@@ -104,7 +104,7 @@ The Model-View-Controller (MVC) architecture is a design pattern used in this pr
 
 4. **MVC Diagram:** Below is a visual representation of the MVC architecture:
 
-   ![MVC Architecture](assets/MVC-Architecture.png)
+   ![MVC Architecture](assets/MVC Architecture.png)
 
 5. **Reference Video:** To learn more about the MVC architecture, check out this [video](https://youtu.be/DUg2SWWK18I?si=QpfXID7by1IgiOPe).
 
