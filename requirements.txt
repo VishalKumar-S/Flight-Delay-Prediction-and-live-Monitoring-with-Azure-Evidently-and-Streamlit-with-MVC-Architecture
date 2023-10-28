@@ -42,3 +42,4 @@ six==1.16.0
 streamlit
 lightgbm
 evidently
+xgboost==1.4.2
