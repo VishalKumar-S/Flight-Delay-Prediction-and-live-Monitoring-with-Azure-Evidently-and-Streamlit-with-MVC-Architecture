@@ -126,6 +126,47 @@ streamlit run app.py
 
 Visit http://localhost:8501 in your web browser to use the app.
 
+## Make Predictions
+
+In this section in Streamlit, you can make flight delay predictions with ease. Just select the input values and let the app do the rest.
+
+![Make Predictions](add_link_to_an_image_here)
+
+## Monitor Data and Model
+
+This is where the magic happens! You can monitor various aspects of your data and model. Choose a date range and select the reports you'd like to generate:
+
+- **Start Month**: Select the starting month for monitoring.
+- **End Month**: Choose the ending month.
+- **Start Day**: Specify the starting day.
+- **End Day**: Set the ending day.
+
+### Select Reports to Generate
+
+Choose the types of reports you want to generate:
+
+- ✅ **Model Performance Report**
+- ✅ **Target Drift Report**
+- ✅ **Data Drift Report**
+- ✅ **Data Quality Report**
+
+Once you hit the "Submit" button, the app will fetch your current data and generate these insightful reports for you.
+
+![Monitor Data and Model](add_link_to_an_image_here)
+
+## Generating Reports
+
+The app will generate various reports based on your selections:
+
+- **Model Performance Report**: Get insights into your model's performance.
+- **Target Drift Report**: Identify any drift in your target variable.
+- **Data Drift Report**: Discover any changes in your data distribution.
+- **Data Quality Report**: This one takes a bit longer (around 10 minutes) because it performs a comprehensive analysis. You can explore other reports if you're short on time.
+
+![Generating Reports](add_link_to_an_image_here)
+
+That's it! Start making predictions and monitor your data and model like a pro. Happy flying! ✈️📊🚀
+
 ## Contributing 🤝
 We welcome contributions! If you want to improve the project, feel free to create a pull request or open an issue. Please follow our Contribution Guidelines.
 
