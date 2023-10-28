@@ -130,7 +130,7 @@ Visit http://localhost:8501 in your web browser to use the app.
 We welcome contributions! If you want to improve the project, feel free to create a pull request or open an issue. Please follow our Contribution Guidelines.
 
 ## License 📜
-This project is open-source and is licensed under the [MIT License](LICENSE.md). You can find the full text of the license in the [LICENSE.md](LICENSE.md) file. 🚀
+This project is open-source and is licensed under the [MIT License](LICENSE.md). You can find the full text of the license in the [LICENSE.md]([LICENSE.md](https://github.com/VishalKumar-S/Flight-Delay-Prediction-and-live-Monitoring-with-Azure-Evidently-and-Streamlit-with-MVC-Architecture/blob/main/LICENSE)) file. 🚀
 
 Feel free to use, modify, and distribute this project as you see fit while retaining proper attribution. 📊
 
