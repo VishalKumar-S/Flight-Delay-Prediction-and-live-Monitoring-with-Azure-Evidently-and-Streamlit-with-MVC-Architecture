@@ -53,16 +53,20 @@ def train_and_save_model(model_name, X_train, y_train):
     joblib.dump(model, f"../models/{model_name}_model.pkl")
     print(f"{model_name} model saved as {model_name}_model.pkl")
 
-# Create and train a Random Forest model
+# Create and train Random Forest model
 train_and_save_model("random_forest", X_train, y_train)
 
 # Train the linear regression model
 train_and_save_model("linear_regression", X_train, y_train)
 
-# Create and train an XGBoost model
+# Create and train XGBoost model
 train_and_save_model("xgboost", X_train, y_train)
 
-# Create and train additional models
+# Create and train ridge regression model
 train_and_save_model("ridge_regression", X_train, y_train)
 
+# Create and train lightgbm model
 train_and_save_model("lightgbm", X_train, y_train)
+
+
+
