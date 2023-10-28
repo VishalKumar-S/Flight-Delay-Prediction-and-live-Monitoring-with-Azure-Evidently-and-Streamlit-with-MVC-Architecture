@@ -104,7 +104,7 @@ The Model-View-Controller (MVC) architecture is a design pattern used in this pr
 
 4. **MVC Diagram:** Below is a visual representation of the MVC architecture:
 
-   ![MVC Architecture](assets/MVC Architecture.png)
+   ![MVC Architecture](assets/MVC-Architecture.png)
 
 5. **Reference Video:** To learn more about the MVC architecture, check out this [video](https://youtu.be/DUg2SWWK18I?si=QpfXID7by1IgiOPe).
 
@@ -130,7 +130,7 @@ Visit http://localhost:8501 in your web browser to use the app.
 We welcome contributions! If you want to improve the project, feel free to create a pull request or open an issue. Please follow our Contribution Guidelines.
 
 ## License 📜
-This project is open-source and is licensed under the [MIT License](LICENSE.md). You can find the full text of the license in the [LICENSE.md]([LICENSE.md](https://github.com/VishalKumar-S/Flight-Delay-Prediction-and-live-Monitoring-with-Azure-Evidently-and-Streamlit-with-MVC-Architecture/blob/main/LICENSE)) file. 🚀
+This project is open-source and is licensed under the [MIT License](LICENSE.md). You can find the full text of the license in the [LICENSE.md](LICENSE.md) file. 🚀
 
 Feel free to use, modify, and distribute this project as you see fit while retaining proper attribution. 📊
 
