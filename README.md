@@ -130,7 +130,7 @@ Visit http://localhost:8501 in your web browser to use the app.
 
 In this section in Streamlit, you can make flight delay predictions with ease. Just select the input values and let the app do the rest.
 
-![Make Predictions](add_link_to_an_image_here)
+![Prediction Dashboard](assets/Prediction-dashboard.PNG)
 
 ## Monitor Data and Model
 
@@ -152,7 +152,7 @@ Choose the types of reports you want to generate:
 
 Once you hit the "Submit" button, the app will fetch your current data and generate these insightful reports for you.
 
-![Monitor Data and Model](add_link_to_an_image_here)
+![Monitor Data and Model](assets/Monitor-data-and-model.PNG)
 
 ## Generating Reports
 
@@ -163,7 +163,16 @@ The app will generate various reports based on your selections:
 - **Data Drift Report**: Discover any changes in your data distribution.
 - **Data Quality Report**: This one takes a bit longer (around 10 minutes) because it performs a comprehensive analysis. You can explore other reports if you're short on time.
 
-![Generating Reports](add_link_to_an_image_here)
+![Model Performance Report](assets/Model-performance-report.PNG)
+
+![Target Drift](assets/Target-drift.PNG)
+
+![Data Drift](assets/Data-drift.PNG)
+
+![Data Quality](assets/Data-Quality.PNG)
+
+
+
 
 That's it! Start making predictions and monitor your data and model like a pro. Happy flying! ✈️📊🚀
 
