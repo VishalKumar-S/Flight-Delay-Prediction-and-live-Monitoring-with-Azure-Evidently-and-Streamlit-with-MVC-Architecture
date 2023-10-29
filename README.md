@@ -130,7 +130,7 @@ Visit http://localhost:8501 in your web browser to use the app.
 
 In this section in Streamlit, you can make flight delay predictions with ease. Just select the input values and let the app do the rest.
 
-![Prediction Dashboard](assets/Prediction-dashboard.PNG)
+![Prediction Dashboard](/assets/Prediction-dashboard.PNG)
 
 ## Monitor Data and Model
 
