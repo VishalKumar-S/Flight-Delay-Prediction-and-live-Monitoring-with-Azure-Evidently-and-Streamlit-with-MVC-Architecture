@@ -22,7 +22,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Data Preprocessing
-      run: python data_preprocessing.py
+      run: python src/data_preprocessing.py
 
   test:
     runs-on: ubuntu-latest
